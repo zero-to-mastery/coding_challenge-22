@@ -23,7 +23,7 @@ Last year, we hosted two projects for Hacktoberfest 2018, [Halloween Website](ht
 >
 > [Project Repo/Instructions](https://github.com/zero-to-mastery/Animation-Nation)
 
-#### [![SANTAFIED](https://img.shields.io/badge/HTML%20PROJECT-Santafied-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Santafied/blob/master/Readme.md)
+#### [![SANTAFIED](https://img.shields.io/badge/HTML%20PROJECT-Santafied-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Santafied)
 > A beginner friendly project - utilising HTML, CSS and perhaps a dash of JavaScript to create a simplistic yet elegant website for the magical season of Christmas. Where visitors can find to name but a few:
 > - Gift Ideas
 > - Christmas Recipes
