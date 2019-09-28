@@ -33,7 +33,7 @@ Last year, we hosted two projects for Hacktoberfest 2018, [Halloween Website](ht
 >
 > [Project Repo/Instructions](https://github.com/zero-to-mastery/Santafied)
 
-#### [![PythonArt](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20Art%20-blue?style=for-the-badge&logo=Python)](./ASCII-Art/)(https://github.com/zero-to-mastery/python-art)
+#### [![PythonArt](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20Art%20-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/python-art)
 > Following the launch of the brand new [Complete Python Developer: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM) course, here is a perfect opportunity to put those new found skills to the test. Here we will be using Python to take an image input which it will then convert into ASCII Art.
 >
 > [Project Repo/Instructions](https://github.com/zero-to-mastery/python-art)
