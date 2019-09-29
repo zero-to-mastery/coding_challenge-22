@@ -4,7 +4,7 @@
 > Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of open-source software, to encourage participation in the open-source community.
 > It is open to everyone in the global community, no matter your skill level or background.
 >
-> Complete the 2019 challenge and **earn a limited edition T-shirt!** All you have to do to take part is sign up on their website -->
+Complete the 2019 challenge and **earn a limited edition T-shirt!** All you have to do to take part is sign up on their website -->
 >
 > [Official Hacktoberfest Website](https://hacktoberfest.digitalocean.com/)
 >
@@ -15,7 +15,7 @@
 # Zero To Mastery Hacktoberfest Projects
 Last year, we hosted two projects for Hacktoberfest 2018, [Halloween Website](https://github.com/zero-to-mastery/Halloween-Hacktoberfest-Edition) and [CSS Art](https://github.com/zero-to-mastery/CSS-Art-Hacktoberfest-Edition). These achieved a combined total of 494 Pull Requests, from over 200 collaborators! Let's see if we can beat that record this year with our bigger ZTM family!
 
-**Following their success, we are excited to announce 3 brand new projects for this year's Hacktoberfest:**
+**Following their success, we are excited to announce 3 brand new projects for this year's Hacktoberfest: all discussions around this event can now be had in our #hacktoberfest-2019 channel on Discord!**
 
 #### [![Animation-Nation](https://img.shields.io/badge/CSS%20PROJECT-Animation%20Nation-yellow?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Animation-Nation)
 > A fun, beginner-friendly challenge.
