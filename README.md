@@ -4,7 +4,7 @@
 > Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of open-source software, to encourage participation in the open-source community.
 > It is open to everyone in the global community, no matter your skill level or background.
 >
-Complete the 2019 challenge and **earn a limited edition T-shirt!** All you have to do to take part is sign up on their website -->
+Complete the 2019 challenge and **earn a limited edition T-shirt!** All you have to do to take part is sign up on their website --> "This year, the first 50,000 participants who successfully complete the challenge will earn a T-shirt."
 >
 > [Official Hacktoberfest Website](https://hacktoberfest.digitalocean.com/)
 >
