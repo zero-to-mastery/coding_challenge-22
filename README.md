@@ -17,13 +17,13 @@ Last year, we hosted two projects for Hacktoberfest 2018, [Halloween Website](ht
 
 **Following their success, we are excited to announce 3 brand new projects for this year's Hacktoberfest: all discussions around this event can now be had in our #hacktoberfest-2019 channel on Discord!**
 
-#### [![Animation-Nation](https://img.shields.io/badge/CSS%20PROJECT-Animation%20Nation-yellow?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Animation-Nation)
+#### [![Animation-Nation](https://img.shields.io/badge/CSS PROJECT-Animation Nation-yellow?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Animation-Nation)
 > A fun, beginner-friendly challenge.
 > What can you come up with, using plain **HTML** and **CSS**? This year, our theme is "Animation Nation"! Unleash your creativity and show us your best work - it can be as simple or complex as you'd like, all we ask is that you use only HTML and pure CSS, and include at least one animation. All work will be proudly displayed on the site for other students to admire. Let's showcase the artistry of ZTM students!
 >
 > [Project Repo/Instructions](https://github.com/zero-to-mastery/Animation-Nation)
 
-#### [![SANTAFIED](https://img.shields.io/badge/HTML%20PROJECT-Santafied-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Santafied)
+#### [![SANTAFIED](https://img.shields.io/badge/HTML PROJECT-Santafied-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Santafied)
 > A beginner friendly project - utilising HTML, CSS and perhaps a dash of JavaScript to create a simplistic yet elegant website for the magical season of Christmas. Where visitors can find to name but a few:
 > - Gift Ideas
 > - Christmas Recipes
@@ -33,14 +33,14 @@ Last year, we hosted two projects for Hacktoberfest 2018, [Halloween Website](ht
 >
 > [Project Repo/Instructions](https://github.com/zero-to-mastery/Santafied)
 
-#### [![PythonArt](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20Art%20-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/python-art)
-> Following the launch of the brand new [Complete Python Developer: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM) course, here is a perfect opportunity to put those new found skills to the test. Here we will be using Python to take an image input which it will then convert into ASCII Art.
+#### [![PythonArt](https://img.shields.io/badge/PYTHON PROJECT-ASCII Art -blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/python-art)
+> Following the launch of the brand new [Complete Python Developer: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM) course, here is a perfect opportunity to put those newfound skills to the test. Here we will be using Python to take an image input which will then convert into ASCII Art.
 >
 > [Project Repo/Instructions](https://github.com/zero-to-mastery/python-art)
 
 # But how do I make a pull request/participate?
 
-> If you've never made a pull request before, or participated in an open source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open source, with a step-by-step guide to making your very first PR.
+> If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR.
 > Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
 
-**Remember, you only need to make 4 pull requests to one of these open source project in the month of October, and you get an awesome Hacktoberfest shirt! Let's see if we can beat the record from last year!!**
+**Remember, you only need to make 4 pull requests to one of these open source projects in the month of October, and you get an awesome Hacktoberfest shirt! Let's see if we can beat the record from last year!!**
