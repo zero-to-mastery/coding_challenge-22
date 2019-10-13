@@ -17,14 +17,14 @@ El año pasado, organizamos dos proyectos para el Hacktoberfest 2018, [Halloween
 
 **Después del éxito obtenido, nos complace anunciar 3 nuevos proyectos para el Hacktoberfest de este año: Todos los detalles sobre este evento ahora estan en nuestro canal #hacktoberfest-2019 en Discord!**
 
-#### [![Animation-Nation](https://img.shields.io/badge/CSS PROJECT-Animation Nation-yellow?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Animation-Nation)
+#### [![Animation-Nation](https://img.shields.io/badge/CSS%20PROJECT-Animation%20Nation-yellow?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Animation-Nation)
 > Un desafío divertido para principiantes.
 > Qué se te ocurre usando **HTML** y **CSS** simple?
 >Este año nuestro tema es "Nación de Animación", Da rienda suelta a tu creatividad y muetranos tu mejor trabajo - puede ser tan simple como complejo, todo lo que te pedimos es que uses solo HTML y CSS puro, e incluya almenos una animacion. Todo el trabajo se mostrará en el sitio para que otros estudiantes lo admiren.
 >Exhibamos el arte de los estudiantes de ZTM!!
 [Repositorio del Proyecto/Instrucciones](https://github.com/zero-to-mastery/Animation-Nation) 
 
-#### [![SANTAFIED](https://img.shields.io/badge/HTML PROJECT-Santafied-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Santafied)
+#### [![SANTAFIED](https://img.shields.io/badge/HTML%20PROJECT-Santafied-critical?style=for-the-badge&logo=HTML5)](https://github.com/zero-to-mastery/Santafied)
 > Un desafío divertido para principiantes - usando HTML, CSS y quizás una pisca de JavaScript para crear un sitio web simple pero elegante para la mágica temporada Navideña. Donde los Visitantes podrán encontrar:  
 
 > - Ideas de Regalos
@@ -35,7 +35,7 @@ El año pasado, organizamos dos proyectos para el Hacktoberfest 2018, [Halloween
 >
 > [Repositorio del Proyecto/Instrucciones](https://github.com/zero-to-mastery/Santafied)
 
-#### [![PythonArt](https://img.shields.io/badge/PYTHON PROJECT-ASCII Art -blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/python-art)
+#### [![PythonArt](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20Art%20-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/python-art)
 > Tras el lanzamiento de la nueva marca [Complete Python Developer: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/?couponCode=LEVELUPZTM) aquí esta una oportunidad perfecta para poner esos nuevos skills a prueba. Aquí usaremos python para tomar de entrada una imagen que luego se convertirá en ASCII Art.
 >
 > [Repositorio del Proyecto/Instrucciones](https://github.com/zero-to-mastery/python-art)
